@@ -1,0 +1,270 @@
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.dll.config
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.pdb
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.exe
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.exe.config
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.rsp
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.exe
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.exe.config
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.rsp
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.AppContext.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Collections.Immutable.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Console.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.Compression.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.FileSystem.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Net.Http.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Net.Sockets.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.ValueTuple.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XPath.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.exe
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.exe.config
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.rsp
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\VBCSCompiler.exe
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\roslyn\VBCSCompiler.exe.config
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Antlr3.Runtime.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.SqlServer.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.Web.Infrastructure.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Newtonsoft.Json.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Helpers.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Mvc.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Optimization.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Razor.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Deployment.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Razor.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\WebGrease.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.SqlServer.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Helpers.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Mvc.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Optimization.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Razor.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Deployment.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Razor.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Newtonsoft.Json.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Antlr3.Runtime.pdb
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Helpers.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Mvc.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Optimization.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Razor.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.AssemblyReference.cache
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.CoreCompileInputs.cache
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.CopyComplete
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.dll
+D:\Kevin\Universidad\7. Septimo Semestre\Desarrollo Web\Segundo Parcial\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.pdb
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.dll.config
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.pdb
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.exe
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.exe.config
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.rsp
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.exe
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.exe.config
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.rsp
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.AppContext.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Collections.Immutable.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Console.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Globalization.Calendars.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.Compression.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.FileSystem.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Net.Http.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Net.Sockets.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Reflection.Metadata.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.ValueTuple.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XPath.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.exe
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.exe.config
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.rsp
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\VBCSCompiler.exe
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\roslyn\VBCSCompiler.exe.config
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Antlr3.Runtime.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.SqlServer.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.Web.Infrastructure.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Newtonsoft.Json.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Helpers.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Mvc.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Optimization.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Razor.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Deployment.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Razor.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\WebGrease.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.SqlServer.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Helpers.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Mvc.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Optimization.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Razor.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Deployment.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Razor.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Newtonsoft.Json.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Antlr3.Runtime.pdb
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Helpers.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Mvc.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Optimization.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Razor.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.AssemblyReference.cache
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.CoreCompileInputs.cache
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.CopyComplete
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.dll
+C:\proyecto\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.pdb
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.AssemblyReference.cache
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.csproj.CoreCompileInputs.cache
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_development_project_U2.pdb
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.dll.config
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Web_development_project_U2.pdb
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.exe
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.exe.config
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csc.rsp
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.exe
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.exe.config
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\csi.rsp
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.AppContext.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Console.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Net.Http.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.exe
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.exe.config
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\vbc.rsp
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Antlr3.Runtime.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.SqlServer.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Newtonsoft.Json.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Helpers.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Mvc.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Optimization.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Razor.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\WebGrease.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\EntityFramework.SqlServer.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Helpers.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Mvc.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Optimization.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.Razor.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Newtonsoft.Json.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Antlr3.Runtime.pdb
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Willbri\OneDrive\Escritorio\Carpetas_AU\U\DWI\P2\Web_development_project_U2\Web_development_project_U2\obj\Debug\Web_deve.889A6979.Up2Date
