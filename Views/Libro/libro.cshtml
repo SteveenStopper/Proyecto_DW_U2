@@ -1,0 +1,78 @@
+﻿@model List<Web_development_project_U2.Models.ViewModels.ListLibroViewModel>
+@{
+    ViewBag.Title = "libro";
+}
+<style>
+    /* Estilos para la tarjeta */
+    .card {
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+    .card-img-top {
+        height: 250px;
+        object-fit: cover;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .card-body {
+        padding: 1.25rem;
+        text-align: center;
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+        font-weight: bold;
+        margin-bottom: 0.75rem;
+    }
+
+    .card-text {
+        font-size: 0.9rem;
+        color: #777;
+    }
+
+    /* Estilos para el botón "Añadir" */
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        border-radius: 20px;
+        padding: 8px 20px;
+        font-size: 0.9rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        transition: background-color 0.3s;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+</style>
+
+<div class="row my-5">
+    @foreach (var oElemento in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <div class="img-container">
+                    <img class="card-img-top" src="@Url.Action("getImage", "Libro", new { id = oElemento.id })" alt="Card image cap">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@oElemento.titulo</h5>
+                    <p class="card-text">@oElemento.autor</p>
+                    <p class="card-text">@oElemento.anio_publicacion</p>
+                    <p class="card-text">@oElemento.categoria</p>
+                    <div class="text-center">
+                        <a href="@Url.Action("Nuevo", "Prestamo", new { libroId = oElemento.id })" class="btn btn-primary">Añadir</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

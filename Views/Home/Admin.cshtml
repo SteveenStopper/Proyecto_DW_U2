@@ -1,0 +1,110 @@
+﻿@model List<Web_development_project_U2.Models.ViewModels.ListLibroViewModel>
+@{
+    ViewBag.Title = "Libros Disponibles";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    /* Estilos para la tabla */
+    .table {
+        font-family: Arial, sans-serif;
+    }
+
+        .table th {
+            background-color: #212529;
+            color: #fff;
+            font-weight: bold;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .table td {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+    .table-hover tbody tr:hover {
+        background-color: #e9ecef;
+    }
+
+    /* Estilos para los botones de acción */
+    .btn {
+        font-size: 0.9rem;
+        border-radius: 6px;
+    }
+
+    .btn-warning {
+        background-color: #ffc107;
+        color: #212529;
+    }
+
+        .btn-warning:hover {
+            background-color: #ffb400;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: #fff;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+        }
+</style>
+
+<h2 class="my-5">@ViewBag.Title</h2>
+
+<div class="row my-3">
+    <div class="col-md-12">
+        <div class="text-center">
+            <a href="~/Libro/Nuevo" class="btn btn-primary mt-3 mb-3 btn-lg">Añadir Nuevo Libro</a>
+        </div>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Título</th>
+                    <th>Autor</th>
+                    <th>Año Publicación</th>
+                    <th>Categoría</th>
+                    <th>Imagen</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var oElemento in Model)
+                {
+
+                    <tr>
+                        <td>@oElemento.titulo</td>
+                        <td>@oElemento.autor</td>
+                        <td>@oElemento.anio_publicacion</td>
+                        <td>@oElemento.categoria</td>
+                        <td>
+                            <img src="@Url.Action("getImage", "Libro", new { id = oElemento.id })" alt="Imagen del cliente" width="150" height="241" />
+                        </td>
+                        <td><a class="btn btn-warning" href="@Url.Action("Editar", "Libro", new { id = oElemento.id })">Editar</a></td>
+                        <td><a onclick="return alertaEliminar()" class="btn btn-danger" href="@Url.Action("Eliminar", "Libro", new { id = oElemento.id})">Eliminar</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+    function alertaEliminar() {
+        var respuesta = confirm("¿Seguro que desea eliminar este libro?");
+        if (respuesta) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+</script>

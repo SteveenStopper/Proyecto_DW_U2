@@ -1,0 +1,60 @@
+﻿@model Web_development_project_U2.Models.ViewModels.UsuarioViewModel
+@{
+    ViewBag.Title = "Registro";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+
+<div class="wrapper">
+    <div class="form-box login">
+        <h2>Registro</h2>
+        @using (Html.BeginForm("Registro", "Usuario", FormMethod.Post))
+        {
+            <div class="input-box">
+                <span class="icon"><ion-icon name="person-outline"></ion-icon></span>
+                @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control", required = "required" })
+                @Html.LabelFor(m => m.Nombre, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Nombre, null)
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="person-outline"></ion-icon></span>
+                @Html.TextBoxFor(m => m.Apellido, new { @class = "form-control", required = "required" })
+                @Html.LabelFor(m => m.Apellido, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Apellido, null)
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="mail-outline"></ion-icon></span>
+                @Html.TextBoxFor(m => m.Correo, new { @class = "form-control", required = "required" })
+                @Html.LabelFor(m => m.Correo, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Correo, null)
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="lock-closed-outline"></ion-icon></span>
+                @Html.PasswordFor(m => m.Password_usu, new { @class = "form-control", required = "required" })
+                @Html.LabelFor(m => m.Password_usu, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Password_usu, null)
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="call-outline"></ion-icon></span>
+                @Html.TextBoxFor(m => m.Telefono, new { @class = "form-control", required = "required" })
+                @Html.LabelFor(m => m.Telefono, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Telefono, null)
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="location-outline"></ion-icon></span>
+                @Html.TextBoxFor(m => m.Direccion, new { @class = "form-control", required = "required" })
+                @Html.LabelFor(m => m.Direccion, new { @class = "form-label" })
+                @Html.ValidationMessageFor(m => m.Direccion, null)
+            </div>
+            <button type="submit" class="btn">Registrarse</button>
+            <div class="login-register">
+                <p>
+                    @Html.ActionLink("Volver al inicio de sesión", "Login", "Usuario", new { area = "" }, new { @class = "" })
+                </p>
+            </div>
+        }
+    </div>
+</div>
+
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>

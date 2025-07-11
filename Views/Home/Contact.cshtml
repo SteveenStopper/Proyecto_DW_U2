@@ -1,0 +1,154 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<style>
+    .jumbotron {
+        background-image: url('https://asomifecuador.com/wp-content/uploads/2019/01/contacto.jpg');
+        background-size: cover;
+        background-position: center;
+        color: #fff;
+        text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+    }
+
+    .card {
+        border: none;
+        border-radius: 0;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    .social-icons {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+
+        .social-icons li {
+            margin-right: 1rem;
+        }
+
+        .social-icons a {
+            color: #000;
+            font-size: 1.5rem;
+            transition: color 0.3s ease;
+        }
+
+            .social-icons a:hover {
+                color: #007bff;
+            }
+
+    .btn-animated {
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+        .btn-animated span {
+            position: relative;
+            z-index: 1;
+        }
+
+        .btn-animated::before {
+            content: '';
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            top: 0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0.2);
+            transform: scaleX(0);
+            transform-origin: right;
+            transition: transform 0.3s ease;
+        }
+
+        .btn-animated:hover::before {
+            transform: scaleX(1);
+            transform-origin: left;
+        }
+
+    img {
+        max-height: 250px;
+    }
+</style>
+<!-- Encabezado con imagen de fondo -->
+
+<div class="text-center mt-3 mb2">
+    <h1>Contacto</h1>
+</div>
+<!-- Contenido principal -->
+<div class="container mt-5 mb-5">
+    <div class="row d-flex align-items-center justify-content-center">
+        <div class="row d-flex align-items-center justify-content-center mb-3">
+            <div class="col-6 col-md-5">
+                <div class="card">
+                    <img src="https://tork.news/__export/1657770808238/sites/tork/img/2022/07/14/screenshot_20220714-005004_instagram_x1x.jpg_1753094345.jpg" class="card-img-top" alt="Imagen de contacto">
+                    <div class="card-body">
+                        <h5 class="card-title">Información de Contacto</h5>
+                        <ul class="list-group">
+                            <li class="list-group-item"><i class="fas fa-phone"></i> Teléfono: 0986253556</li>
+                            <li class="list-group-item"><i class="fas fa-envelope"></i> Email: sastopper@espe.edu.ec</li>
+                            <li class="list-group-item"><i class="fas fa-map-marker-alt"></i> Dirección: Calle Principal, Santo Domingo, Ecuador</li>
+                        </ul>
+                        <ul class="social-icons text-center">
+                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                        <div class="text-center">
+                            <a href="#" class="btn btn-primary btn-block btn-animated">
+                                <span>Contactar</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-5">
+            <div class="card">
+                <img src="https://img.freepik.com/fotos-premium/pongase-contacto-nosotros-mano-empresario-sosteniendo-telefono-inteligente-movil-icono-correo-telefono-correo-electronico_52701-38.jpg" class="card-img-top" alt="Imagen de contacto">
+                <div class="card-body">
+                    <h5 class="card-title">Información de Contacto</h5>
+                    <ul class="list-group">
+                        <li class="list-group-item"><i class="fas fa-phone"></i> Teléfono: 0983244298</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i> Email: datoapanta11@espe.edu.ec</li>
+                        <li class="list-group-item"><i class="fas fa-map-marker-alt"></i> Dirección: Calle Principal, Ciudad, País</li>
+                    </ul>
+                    <ul class="social-icons text-center">
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                    <div class="text-center">
+                        <a href="#" class="btn btn-primary btn-block btn-animated">
+                            <span>Contactar</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-6 col-md-5">
+            <div class="card">
+                <img src="https://img.freepik.com/fotos-premium/pongase-contacto-nosotros-mano-empresario-sosteniendo-telefono-inteligente-movil-icono-correo-telefono-correo-electronico_52701-38.jpg" class="card-img-top" alt="Imagen de contacto">
+                <div class="card-body">
+                    <h5 class="card-title">Información de Contacto</h5>
+                    <ul class="list-group">
+                        <li class="list-group-item"><i class="fas fa-phone"></i> Teléfono: 0985359444</li>
+                        <li class="list-group-item"><i class="fas fa-envelope"></i> Email: jntorres1@espe.edu.ec</li>
+                        <li class="list-group-item"><i class="fas fa-map-marker-alt"></i> Dirección: Calle Principal, Santo Domingo, Ecuador</li>
+                    </ul>
+                    <ul class="social-icons">
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                    <div class="text-center">
+                        <a href="#" class="btn btn-primary btn-block btn-animated">
+                            <span>Contactar</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
